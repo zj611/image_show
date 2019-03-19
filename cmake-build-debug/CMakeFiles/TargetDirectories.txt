@@ -1,0 +1,4 @@
+/home/zj/a/small_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zj/a/small_project/cmake-build-debug/CMakeFiles/sp.dir
+/home/zj/a/small_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zj/a/small_project/cmake-build-debug/CMakeFiles/small_project.dir
